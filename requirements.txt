@@ -1,0 +1,6 @@
+numpy >= 1.11.1
+sugartensor >= 0.0.2.4
+lxml >= 3.6.4.
+nltk >= 3.2.1.
+regex
+readchar
